@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122668485008",
+    "project_id": "ukonnect-f5b1c",
+    "storage_bucket": "ukonnect-f5b1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122668485008:android:3dabd330a09d002822cb15",
+        "android_client_info": {
+          "package_name": "com.example.ukonnect2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYYfToGHdqh6CyIctEQ5y7QXqt4zV3Ak8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
